@@ -6,7 +6,7 @@ i build with **react, typescript, and a mild obsession for clean code** — curr
 mechanical engineering student at OAU by day, pixel pusher by night.  
 5+ years turning caffeine into code.
 
-[portfolio](https://davestack.com) • [email](mailto:davidtimileyin55@gmail.com) • [linkedin](https://www.linkedin.com/in/david-eluwole-166033370/) • [Twitter](https://x.com/DavidTimil93017)
+[portfolio](https://davestack.vercel.app/) • [email](mailto:davidtimileyin55@gmail.com) • [linkedin](https://www.linkedin.com/in/david-eluwole-166033370/) • [Twitter](https://x.com/DavidTimil93017)
 
 ---
 
