@@ -1,6 +1,6 @@
-## hey, i'm david 👋🏾
+## Hey, I'm David 👋🏾
 
-frontend developer who thinks great websites should feel like magic, not puzzles.  
+Frontend developer who thinks great websites should feel like magic, not puzzles.  
 i build with **react, typescript, and a mild obsession for clean code** — currently exploring the backend so i can ship full projects that don't just look good, but *work* good.
 
 mechanical engineering student at OAU by day, pixel pusher by night.  
