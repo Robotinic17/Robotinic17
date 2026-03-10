@@ -150,7 +150,7 @@ Built responsive web applications using React and JavaScript. Integrated RESTful
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   
