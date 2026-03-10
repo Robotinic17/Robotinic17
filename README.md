@@ -154,7 +154,7 @@ Built responsive web applications using React and JavaScript. Integrated RESTful
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robotinic17&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Robotinic17&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Robotinic17&theme=react&hide_border=true)
 
