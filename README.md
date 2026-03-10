@@ -168,7 +168,7 @@ Built responsive web applications using React and JavaScript. Integrated RESTful
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=Robotinic17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-trophies.vercel.app/?username=Robotinic17&theme=darkhub&no-frame=true)
 
 </div>
 
